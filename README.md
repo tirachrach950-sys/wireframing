@@ -50,3 +50,17 @@ For this wireframing project, we are creating **Low-Fidelity Wireframes**, focus
 4. **Functionality**  
    - Indicates **interactive elements and system behavior**.  
    - Example: Buttons for booking, dropdowns for selecting dates, and forms for user input help define how the system works.
+## Wireframing Tools
+
+There are several tools available for creating wireframes, ranging from simple sketching apps to advanced design software. Choosing the right tool can improve efficiency and collaboration during the design process.
+
+### Popular Wireframing Tools:
+- **Figma:**  
+  - Cloud-based design tool with real-time collaboration.  
+  - Allows designers to create wireframes, prototypes, and UI designs.  
+  - Features include components, grids, constraints, and interactive elements.  
+  - Useful for both low-fidelity and high-fidelity wireframes.  
+
+- **Adobe XD:** Enables wireframing and prototyping with interactive elements.  
+- **Sketch:** A macOS tool for wireframing, UI design, and prototyping.  
+- **Balsamiq:** Focuses on low-fidelity wireframes with a han
