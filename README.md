@@ -20,6 +20,24 @@ Wireframes are made up of several important elements that define the structure a
 1. **Layout Structure**  
    - Defines the **arrangement of elements** on each page.  
    - Example: Placing a header, sidebar, and main content area in a clear and consistent way ensures users can navigate easily.
+## Types of Wireframes
+
+Wireframes can be categorized into **Low-Fidelity** and **High-Fidelity** depending on the level of detail and visual refinement.
+
+### Low-Fidelity Wireframes
+- **Definition:** Simple, rough sketches of a website or app layout.  
+- **Purpose:** Focuses on structure, layout, and placement of elements without detailed graphics, colors, or typography.  
+- **When Used:** Early stages of design to quickly explore ideas and gather feedback.  
+- **Example:** A hand-drawn sketch or a basic digital wireframe showing where headers, content, and buttons go.
+
+### High-Fidelity Wireframes
+- **Definition:** Detailed, polished wireframes that include colors, typography, spacing, and sometimes interactive elements.  
+- **Purpose:** Represents a more realistic view of the final product and helps in usability testing.  
+- **When Used:** Later stages of design when refining layout, flow, and user interactions.  
+- **Example:** Digital wireframe in Figma with precise alignment, detailed components, and realistic content placeholders.
+
+### Wireframe Type for This Project
+For this wireframing project, we are creating **Low-Fidelity Wireframes**, focusing on layout, structure, navigation, and content placement rather than visual design details.
 
 2. **Navigation**  
    - Shows how users **move through the system**.  
